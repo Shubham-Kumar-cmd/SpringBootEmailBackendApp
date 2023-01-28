@@ -24,7 +24,7 @@ public class EmailServiceImpl implements EmailService {
 		
 		boolean flag=false;
 		String from="kumar53shubham@gmail.com";
-		String pwd="fuwqnijqdfjyerew";
+		String pwd="*********************";
 		
 		//variable for gmail
 		String host="smtp.gmail.com";
